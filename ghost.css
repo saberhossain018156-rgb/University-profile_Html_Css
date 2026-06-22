@@ -1,0 +1,310 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body, html{
+    font-family: roboto, sans-serif, arial;
+    background: whitesmoke;
+}
+
+.width-100{
+    width: 100%;
+    float: left;
+
+}
+
+.container{
+    width: 1500px;
+    margin: 0px auto;
+
+}
+
+.top-h{
+    background: blue;
+    padding: 5px 0px;
+    border-bottom: 2px solid #3131315e;
+
+}
+
+.newslist{
+    background: white;
+    color: red;
+    padding: 6px;
+    font-size: 20px;
+
+}
+
+.headquote{
+    font-size: 18px;
+    color: white;
+    width: 80%;
+
+
+}
+
+.hm{ 
+    position: relative;
+    box-shadow: 0px 2px 5px 0px #000036;
+
+
+}
+
+.logo{
+    width: fit-content;
+    float: left;
+
+}
+
+.mm{
+    list-style: none;
+    float: right;
+    margin-top: 20px;
+
+}
+
+.mm a{
+    font-weight: 500;
+    color: #3a3a3a;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+.mm li{
+    float: left;
+    padding: 12px 15px;
+
+}
+
+.mm li :hover{
+    color: red;
+}
+
+.sw{
+    width: 100%;
+    height: auto;
+}
+
+.mgt5{
+    margin-top: 50px;
+
+}
+
+.width-33{
+    width: 33%;
+    float: left;
+
+}
+
+.ln{
+    margin-left: 10px;
+    margin-right: 10px;
+    background: white;
+    padding: 10px;
+    height: 350px;
+    margin-bottom:30px;
+}
+
+.hs{
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid white;
+    padding-bottom: 0px;
+    margin: 0px;
+    margin-bottom: 15px;
+    border: 1px solid white;
+    padding-top: 15px;
+    padding-left: 15px;
+    background: #00aed9;
+    color: white;
+        
+
+}
+
+.ht{
+    margin: 0px;
+    padding: 0px;
+    font-size: 24px;
+    font-weight: 600;
+    padding-bottom: 5px;
+
+}
+
+
+.lnu{
+    padding: 0px;
+    list-style: none;
+    line-height: 40px;
+
+}
+
+.eventList{
+    margin-left: 10px;
+    margin-right: 10px;
+    background: white;
+    padding: 10px;
+    height: 350px;
+    margin-bottom:30px;
+
+}
+
+.UpcomingeventList{
+    padding: 0px;
+    list-style: none;
+}
+
+.UpcomingeventList li{
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+}
+
+.eventData{
+    background: #03a9f4;
+    width: 30px;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.noticeboard{
+    margin-left: 10px;
+    margin-right: 10px;
+    background: white;
+    padding: 10px;
+    height: 350px;
+    margin-bottom:30px;
+
+}
+
+.noticeboardlist{
+    padding: 0px;
+    list-style: none;
+    line-height: 40px;
+
+}
+
+.noticeboardlist li{
+    width: 100%;
+    float: left;
+    margin-bottom: 15px;
+
+
+}
+
+.ourparincipal{
+    margin-left: 10px;
+    margin-right: 10px;
+    background: white;
+    padding: 10px;
+    height: 350px;
+    margin-bottom:30px;
+
+
+}
+
+.usefullinformationUl{
+    list-style: none;
+
+}
+
+.usefullinformationUl li{
+    margin-bottom: 15px;
+    border-bottom: 1px solid #d7d7d7;
+    padding-bottom: 15px;
+
+}
+
+.usefullinformationUl a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.gss{
+    margin-bottom: 30px;
+    border-bottom: 1px solid #d7d7d7;
+    padding-bottom: 30px;
+
+
+
+}
+
+.name7{
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    padding-left: 10px;
+    margin-top:20px;
+
+}
+
+.name8{
+    font-size: 15px;
+    color: black;
+    padding-left: 10px;
+    margin-top:6px;
+
+}
+.gi{
+    width: 100%;
+
+}
+
+.width-40{
+    width: 40%;
+    float: left;
+
+}
+
+.width-60{
+    width: 60;
+    float: 60%;
+
+}
+
+.aboutUs{
+    margin-left: 10px;
+    margin-right: 10px;
+    background: white;
+    padding: 10px;
+    height: 350px;
+    margin-bottom:30px;
+
+}
+.ceartificated{
+    margin-left: 10px;
+    margin-right: 10px;
+    background: white;
+    padding: 10px;
+    height: 350px;
+    margin-bottom:30px;
+
+}
+
+.gallery-head-stystl{
+    font-size: 28px;
+    color: black;
+    margin-bottom: 5px;
+    background-color: grey;
+    padding: 20px 0px;
+
+}
+
+.width-25{
+    width: 25%;
+    float: left;
+
+
+
+}
+.gallery-img{
+    height: 250px;
+    width: auto;
+
+}
+
